@@ -1,0 +1,48 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #43cee0;
+  padding-top: 70px;
+}
+
+#header-nav {
+  background-color: #31be8f;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  height: auto;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px rgb(48, 48, 48);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand h1 {
+  font-size: 1.9em;
+}
+
+.navbar-toggle {
+  margin-top: 20px;
+}
+
+#nav-list li {
+  background-color: rgb(10, 62, 87);
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+h2 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 70px;
+  color: black;
+}
+
+#home {
+  background-color: #155da0;
+  border-radius: 10px;
+  margin: 15px;
+}
+header {
+  margin-top: -70px;
+}
