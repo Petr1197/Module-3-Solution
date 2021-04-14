@@ -62,3 +62,6 @@ header {
 navbar-collapse {
   background-color: blue;
 }
+#nav-list a {
+  color: white;
+}
